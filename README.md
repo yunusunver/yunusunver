@@ -5,8 +5,6 @@
 
 - 📝 I regulary write articles on [https://medium.com/@yunus.unver](https://medium.com/@yunus.unver)
 
-- 💬 Ask me about **react, angular, c#(.net)**
-
 - 📫 How to reach me **@yunusnver (twitter)**
 
 
